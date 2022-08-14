@@ -1,4 +1,4 @@
-"use srict";
+"use strict";
 
 const firstSection = document.querySelector(".first-section");
 
